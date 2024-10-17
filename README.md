@@ -1,4 +1,4 @@
-# InnerBhakti Backend
+# InnerBhakti_assignment Backend
 
 ## Overview
 
